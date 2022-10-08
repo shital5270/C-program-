@@ -8,7 +8,7 @@ int main()
   if(Num1>0)
       printf("\n entered number is=%d positive integer",Num1);
   else
-      printf("\ entered number is=%d negative integer",Num1);
+      printf("\n entered number is=%d negative integer",Num1);
   getch();
   return 0;
 }
