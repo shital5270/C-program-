@@ -3,7 +3,7 @@
 int main()
 {
    char csrc[50]={'\0'};
-  int i=0;
+   int i=0;
   
   puts("\n enter a string =");
   gets(csrc);
@@ -24,4 +24,4 @@ int main()
   
   getch();
   return 0;
- }
+}
