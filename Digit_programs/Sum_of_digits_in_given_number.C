@@ -24,6 +24,6 @@ int main()
 	}
 	printf("\n\n sum of digits in given number %d is %d",N0,dsum);
 
-	getcg();
+	getch();
 	return 0;
 }
